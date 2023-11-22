@@ -13,8 +13,8 @@ Solve Puzzles: Utilize an efficient SAT solver to find solutions to Sudoku puzzl
 
 Check Uniqueness: Verify the uniqueness of solutions for Sudoku puzzles, ensuring that each puzzle has only one valid solution.
 
-Note: The SAT-solving component, a critical part of this project, has been coded by MR.X, enhancing the program's ability to efficiently solve, create, and check the uniqueness of Sudoku solutions. The java core program is provided.
+Note: The SAT-solving component, a critical part of this project, has been coded by KATOUZIAN Pouria, enhancing the program's ability to efficiently solve, create, and check the uniqueness of Sudoku solutions. The java core program is provided.
 
 Programming Language:
 
-The program is predominantly implemented in Python, with the SAT-solving component custom-coded by MR.X .
+The program is predominantly implemented in Python, with the SAT-solving component custom-coded by KATOUZIAN Pouria.
